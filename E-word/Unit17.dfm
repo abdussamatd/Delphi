@@ -1,0 +1,109 @@
+object Form17: TForm17
+  Left = 0
+  Top = 0
+  Caption = 'Form17'
+  ClientHeight = 260
+  ClientWidth = 303
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 32
+    Width = 41
+    Height = 19
+    Caption = 'Name'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 24
+    Top = 80
+    Width = 63
+    Height = 19
+    Caption = 'Birthdate'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 24
+    Top = 128
+    Width = 39
+    Height = 19
+    Caption = 'Email'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 24
+    Top = 176
+    Width = 44
+    Height = 19
+    Caption = 'Phone'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 136
+    Top = 34
+    Width = 145
+    Height = 21
+    Enabled = False
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 136
+    Top = 82
+    Width = 145
+    Height = 21
+    Enabled = False
+    TabOrder = 1
+  end
+  object Edit3: TEdit
+    Left = 136
+    Top = 130
+    Width = 145
+    Height = 21
+    Enabled = False
+    TabOrder = 2
+  end
+  object Edit4: TEdit
+    Left = 136
+    Top = 178
+    Width = 145
+    Height = 21
+    Enabled = False
+    TabOrder = 3
+  end
+  object Button1: TButton
+    Left = 206
+    Top = 216
+    Width = 75
+    Height = 25
+    Caption = 'Close'
+    TabOrder = 4
+    OnClick = Button1Click
+  end
+end
