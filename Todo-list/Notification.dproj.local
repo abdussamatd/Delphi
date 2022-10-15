@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/18 01:32:33.743.pas,C:\Users\Personal(Dima)\Documents\RAD Studio\Projects\Unit1.pas=G:\Project Delphi\Background.pas</Transaction>
+    <Transaction>2019/02/18 01:32:33.757.dfm,C:\Users\Personal(Dima)\Documents\RAD Studio\Projects\Unit1.dfm=G:\Project Delphi\Background.dfm</Transaction>
+    <Transaction>2019/02/18 01:33:14.864.dproj,C:\Users\Personal(Dima)\Documents\RAD Studio\Projects\Project1.dproj=G:\Project Delphi\Background1.dproj</Transaction>
+    <Transaction>2019.02.20 10:42:10.814.dproj,C:\Users\020818500856\Desktop\Project Delphi\Background1.dproj=C:\Users\020818500856\Desktop\Project Delphi\Notification.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
