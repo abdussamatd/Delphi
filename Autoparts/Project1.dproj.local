@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.05.22 11:21:39.867.pas,C:\Users\020818500856\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\020818500856\Desktop\Autoparts\Unit1.pas</Transaction>
+    <Transaction>2019.05.22 11:21:39.879.dfm,C:\Users\020818500856\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\020818500856\Desktop\Autoparts\Unit1.dfm</Transaction>
+    <Transaction>2019.05.22 11:21:40.866.dproj,C:\Users\020818500856\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\020818500856\Desktop\Autoparts\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
